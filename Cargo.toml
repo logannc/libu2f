@@ -1,0 +1,6 @@
+[package]
+name = "libu2f"
+version = "0.1.0"
+authors = ["Logan Collins <logan.neal.collins@gmail.com>"]
+
+[dependencies]
